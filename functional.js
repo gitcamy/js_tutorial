@@ -80,4 +80,3 @@ function functionalLengths(elements) {
 }
 
 console.log(functionalLengths(states));
-
